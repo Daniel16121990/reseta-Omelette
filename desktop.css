@@ -1,0 +1,27 @@
+body{
+    background-color: var(--RoseWhite);
+}
+.container{
+    margin: 0 auto;
+    border-radius: 0 0 20px 20px;
+}
+.imagen figure img{
+    margin: 100px auto;
+    margin-bottom: 0;
+    padding: 31px 31px 0 31px; 
+    border-radius: 20px 20px 0 0;
+}
+.container h1{
+    margin: 0 0 35px 0;
+    padding-top: 35px;
+}
+.container-nutrition div table tr td{
+
+    padding-right: 200px;
+
+
+}
+.container-nutrition div{
+    margin-bottom: 100px;
+    padding-bottom: 50px;
+}
